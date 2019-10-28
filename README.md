@@ -1,2 +1,2 @@
 # Compiler-Practice
-Simple C compiler written till Semantic phase
+Simple mini C compiler written till Semantic phase
